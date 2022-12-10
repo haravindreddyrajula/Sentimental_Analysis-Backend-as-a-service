@@ -59,6 +59,7 @@ class Rules:
     #         )
     #     print(json.dumps(response.json()))
 
+
 if __name__ == "__main__":
     Rules.get_rules(self)
     Rules.set_rules(self)
